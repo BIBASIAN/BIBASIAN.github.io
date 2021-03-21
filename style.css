@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 50px;
+    box-sizing: border-box;
+}
+body{
+    font-size:20px;
+    font-family:'reggae one',cursive;
+    background-color:green;
+    color:rgb(145, 131, 55);
+}
+p{
+    colo:;
+    margin: 50px;
+}
+h1{
+    color:greenyellow;
+}
+img {
+    max-width: 40%;
+    height: auto;
+    display: block;    
+}
+div{
+width: 90%;
+margin: auto;
+padding: 50px;
+background-color: #d81414;
+box-shadow: inset 0 0 20px 40px #26001b;
+}
+a {
+    text-decoration: none;
+    color:greenyellow;
+    display: inline-block;
+    margin: 20px 0;
+    border-bottom: 1px solid transparent;
+    transition:0.4s ease-in-out;
+}
+a:hover{
+    background: tomato;
+    color:forestgreen;
+
+    
+}
